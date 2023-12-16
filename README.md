@@ -16,3 +16,5 @@
   
 - [scénarios dossier bénéficiaire(consulter) en uml](https://docs.google.com/presentation/d/1BcRSOTlS5c1PWLs7obStI_nzCSd1UwhNxRavJxQNzd8/edit#slide=id.g2a74d4cad18_0_0)
   
+- [scénarios dossier bénéficiaire(modifier) en uml](https://docs.google.com/presentation/d/1W2nL1OsoGl31XYjOIXlrHa343wxP6iLZp-TIsM-GYoA/edit#slide=id.g2a74d4cad18_0_0)
+
