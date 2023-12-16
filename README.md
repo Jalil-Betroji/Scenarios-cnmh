@@ -10,6 +10,7 @@
     - Rédaction de scénarios rendez-vous(modifier) en uml
     - Rédaction de scénarios rendez-vous(Supprimer) en uml
     - Rédaction de scénario Orientation médical (Ajouter consultation) en uml
+    - Rédaction de scénario Orientation médical (Consulter consultation) en uml
 
 ### livrables
 
@@ -28,3 +29,5 @@
 - [scénarios rendez-vous(Supprimer) en uml](https://docs.google.com/presentation/d/1JwcWRQVyJfuyAuYgqIqyKPKZIqdQaaxLhotaNAQpE8E/edit#slide=id.g2a74d4cad18_0_0)
 
 - [Scénario Orientation médical (Ajouter consultation)](https://docs.google.com/presentation/d/13CGE1sW8Ynra-OaAcsJVNDjd9JzrN-YZH00STs_JpqM/edit#slide=id.g2a74d4cad18_0_0)
+
+- [scénario Orientation médical (Consulter consultation) en uml](https://docs.google.com/presentation/d/17Mout7DfWCHnFXggh0neCT9B-lJIzLpgQiDmjyqqN3w/edit#slide=id.g2a74d4cad18_0_0)
