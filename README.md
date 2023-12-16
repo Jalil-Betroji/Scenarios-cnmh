@@ -20,3 +20,5 @@
 
 - [scénarios rendez-vous(Ajouter) en uml](https://docs.google.com/presentation/d/1A85ik5fHyl91Ua1pnkXgYzIDWK-7YIFpPvZiX28kgDE/edit#slide=id.g2a74d4cad18_0_0)
   
+- [scénarios rendez-vous(Consulter) en uml](https://docs.google.com/presentation/d/1COdlANO79JJG75am_94z578DgnedfFuO0LU1RJvaXw0/edit#slide=id.g2a74d4cad18_0_0)
+  
