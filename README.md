@@ -24,3 +24,4 @@
   
 - [scénarios rendez-vous(modifier) en uml](https://docs.google.com/presentation/d/1joHyHl9fpdoEf-K9l-23DKhoDzGibVtNyn_pMgHG_nI/edit#slide=id.g2a74d4cad18_0_0)
   
+- [scénarios rendez-vous(Supprimer) en uml](https://docs.google.com/presentation/d/1JwcWRQVyJfuyAuYgqIqyKPKZIqdQaaxLhotaNAQpE8E/edit#slide=id.g2a74d4cad18_0_0)
